@@ -42,4 +42,4 @@ An issue with this model is the lack of data, with there being only 8000 samples
 ## Analysis
 ### Feature Importance
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/travis-dao/spotify-analysis/blob/main/feature%20importances.jpeg))
